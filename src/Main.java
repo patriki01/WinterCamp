@@ -10,6 +10,8 @@ public class Main {
             if ((i % 5) == 0) {
                 System.out.print("inga");
             }
+            // Add a newline after each iteration for better formatting
+            System.out.println();
         }
     }
 }
